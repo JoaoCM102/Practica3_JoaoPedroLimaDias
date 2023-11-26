@@ -11,26 +11,29 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.practica3_joaopedrolimadias.Rutas
+import com.example.practica3_joaopedrolimadias.Ventanas.AñadirJugador
+import com.example.practica3_joaopedrolimadias.Ventanas.MenuPrincipal
+import com.example.practica3_joaopedrolimadias.Ventanas.informacionJugador
+
 @Composable
-fun GrafoNavegacion(context: Context){
+fun GrafoNavegacion(){
     val navController = rememberNavController()
 
-    NavHost(navController = navController, startDestination = Rutas.PantallaUno.ruta) {
+    NavHost(navController = navController, startDestination = Rutas.MenuPrincipal.ruta) {
 
         // "URL" -> Composable
-        composable(Rutas.PantallaUno.ruta){
+        composable(Rutas.MenuPrincipal.ruta){
+            MenuPrincipal().MenuPrincipal(navController = navController)
         }
 
-        composable(Rutas.PantallaDos.ruta){
+        composable(Rutas.AñadirJugador.ruta){
+            AñadirJugador(navController = navController)
         }
 
-        composable(Rutas.PantallaTres.ruta){
+        composable(Rutas.InformacionJugador.ruta){
+            informacionJugador()
         }
 
-        composable(Rutas.PantallaCuatro.ruta){
-        }
-        composable(Rutas.PantallaCinco.ruta){
-        }
     }
 }
 

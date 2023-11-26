@@ -10,6 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.example.practica3_joaopedrolimadias.Nav.GrafoNavegacion
 import com.example.practica3_joaopedrolimadias.Ventanas.AñadirJugador
 import com.example.practica3_joaopedrolimadias.ui.theme.Practica3_JoaoPedroLimaDiasTheme
 
@@ -24,7 +25,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
 
                 ) {
-                    AñadirJugador()
+                    GrafoNavegacion()
                 }
             }
         }

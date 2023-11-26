@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Practica3_JoaoPedroLimaDias</string>
+    <string name="messi">Lionel Messi es un futbolista argentino considerado uno de los mejores jugadores de la historia. Nacido el 24 de junio de 1987, Messi ha jugado la mayor parte de su carrera en el FC Barcelona antes de unirse al Paris Saint-Germain (PSG) en 2021. Con habilidades excepcionales en el regate, el control del balón y una capacidad única para marcar goles, Messi ha ganado múltiples títulos y premios a lo largo de su carrera.</string>
+
+    <string name="cristiano">Cristiano Ronaldo es un futbolista portugués conocido por su potencia física, velocidad y capacidad goleadora. Nacido el 5 de febrero de 1985, Ronaldo ha jugado en clubes como el Manchester United, el Real Madrid y actualmente está en el Manchester United. Con numerosos títulos de liga y premios individuales, Ronaldo es una leyenda en el fútbol mundial.</string>
+
+    <string name="griezman">Antoine Griezmann es un futbolista francés nacido el 21 de marzo de 1991. Griezmann ha destacado por su habilidad técnica, visión de juego y capacidad para anotar goles. Ha tenido éxito tanto a nivel de clubes, con el Atlético de Madrid y el FC Barcelona, como a nivel internacional, siendo parte fundamental del equipo nacional francés.</string>
+
+    <string name="mbappe">Kylian Mbappé es un talentoso futbolista francés, nacido el 20 de diciembre de 1998. Con una velocidad impresionante y habilidades en el regate, Mbappé se ha destacado en el Paris Saint-Germain (PSG) y en la selección nacional de Francia. Ha sido reconocido como uno de los jóvenes talentos más prometedores del fútbol mundial.</string>
+
+    <string name="halaand">Erling Haaland es un delantero noruego nacido el 21 de julio de 2000. Con una capacidad goleadora notable, Haaland ha impresionado en clubes como el Borussia Dortmund y el Manchester City. Su presencia física, velocidad y habilidades técnicas lo convierten en uno de los delanteros más buscados en el mundo del fútbol.</string>
+
+    <string name="modric">Luka Modrić es un centrocampista croata nacido el 9 de septiembre de 1985. Con una habilidad excepcional en el control del balón y la visión de juego, Modrić ha sido una parte fundamental del Real Madrid y la selección nacional de Croacia. Ha ganado varios títulos, incluido el premio al Jugador del Año de la FIFA en 2018.</string>
+
+    <string name="pedri">Pedri González es un joven talento español nacido el 25 de noviembre de 2002. Jugando como centrocampista, Pedri ha impresionado con su madurez en el campo, visión de juego y capacidad técnica. Ha sido una adición destacada al FC Barcelona y a la selección española.</string>
+
+    <string name="gavi">Gavi es un prometedor centrocampista español nacido el 13 de octubre de 2004. Aunque joven, Gavi ha mostrado habilidades técnicas y visión de juego excepcionales en el FC Barcelona. Su ascenso rápido lo ha convertido en una figura emocionante para el futuro del fútbol español.</string>
+
+    <string name="musiala">Jamal Musiala es un talentoso mediocampista y delantero alemán-inglés, nacido el 26 de febrero de 2003. Musiala ha destacado en el Bayern de Múnich con su versatilidad, velocidad y habilidades en el regate. A pesar de su juventud, ha demostrado ser una parte valiosa del equipo tanto a nivel de clubes como en la selección alemana.</string>
+
+    <string name="saka">Bukayo Saka es un talentoso futbolista inglés, nacido el 5 de septiembre de 2001. Saka ha destacado por su versatilidad en el campo, jugando tanto como extremo como lateral. Su habilidad en el regate y la visión del juego lo convierten en una promesa emocionante para el futuro del fútbol inglés.</string>
+
 </resources>
